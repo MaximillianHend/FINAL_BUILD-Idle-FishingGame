@@ -1,0 +1,4 @@
+repository "IdleFishingSuccessors/Fish@16768287437011@cloud"
+  path "/"
+    br "/main"
+    co "/main"
